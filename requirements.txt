@@ -1,0 +1,51 @@
+# Core Deep Learning Framework
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Web Interface
+gradio>=4.0.0
+
+# Computer Vision & Image Processing
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+Pillow>=10.0.0
+
+# Scientific Computing
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Model Optimization (for TFLite conversion)
+tensorflow>=2.13.0
+onnx>=1.14.0
+onnxruntime>=1.15.0
+
+# Data Handling & Export
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Flask (for embedded dashboard)
+flask>=2.3.0
+flask-cors>=4.0.0
+
+# PyQt5 (alternative UI framework - optional)
+# PyQt5>=5.15.9
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.65.0
+pyyaml>=6.0
+python-dotenv>=1.0.0
+
+# Hardware Monitoring
+psutil>=5.9.0
+
+# For Raspberry Pi (uncomment when deploying to Pi)
+# gpiozero>=2.0.0
+# picamera2>=0.3.0
+
+# Darwin Core / OBIS Export (optional)
+# dwca-utils>=0.1.0
