@@ -14,7 +14,14 @@ However, **manual microscopic analysis** is:
 - 🕐 **Time-consuming:** ~20 minutes per sample  
 - 👩‍🔬 **Labor-intensive:** Requires skilled taxonomists (often in shortage)  
 - ⚖️ **Subjective:** Prone to human error  
-- 🚫 **Not scalable:** Unsuitable for large-scale or real-time monitoring  
+- 🚫 **Not scalable:** Unsuitable for large-scale or real-time monitoring
+---
+
+## Youtube Video
+
+[![Title](https://img.youtube.com/vi/WEvNaXpfy-I/maxresdefault.jpg)](https://youtu.be/WEvNaXpfy-I)
+
+---
 
 ### 🎯 Our Goal  
 To develop an **AI-powered embedded microscopy system** that automates detection, classification, and counting of marine microorganisms — directly on low-cost hardware like the **Raspberry Pi 5**, fully **offline** and **field deployable**.
@@ -141,14 +148,6 @@ Microscope → Image Capture → Detection + Classification (YOLOv8-Nano) → Co
 - Federated learning–ready data pipeline
 - Total system cost under **₹12,000**
 - Power-efficient (10–12W) and **portable** for field use
-
----
-
-## 🖼️ Images & Videos
-
-Attach your system demo media here (screenshots, test results, or video links):
-
-[![Title](https://img.youtube.com/vi/WEvNaXpfy-I/maxresdefault.jpg)](https://youtu.be/WEvNaXpfy-I)
 
 ---
 
